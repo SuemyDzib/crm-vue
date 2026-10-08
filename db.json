@@ -1,8 +1,8 @@
 {
   "clientes": [
     {
-      "nombre": "Demo Prueba",
-      "apellido": "Orozco Gonzalez",
+      "nombre": "Demo",
+      "apellido": "Prueba",
       "email": "correo@correo.com",
       "telefono": "123-123-1234",
       "empresa": "ABC Company",
