@@ -108,3 +108,7 @@ Si quieres usar otra API o puerto, cambia la `baseURL` en `src/lib/axios.js`.
 | `/`                   | Listado de clientes                    |
 | `/agregar-cliente`    | Formulario para agregar un cliente     |
 | `/editar-cliente/:id` | Formulario para editar un cliente      |
+
+## 👤 Autor
+
+Desarrollado por **Suemy Dzib** – [@SuemyDzib](https://github.com/SuemyDzib) a través del curso de Udemy impartido por Juan de la Torre.
